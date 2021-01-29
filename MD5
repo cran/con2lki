@@ -1,0 +1,10 @@
+ed9aa13e283157a80a8fa06788ee848b *DESCRIPTION
+2ea61a92876630c6e0b3fe1b49bf6b97 *LICENSE
+0fe1adf4bd1efe5f0d2ebecb4f9f7d87 *NAMESPACE
+40f91dd10741ee0f243ed6c410dc7ddd *NEWS.md
+407fb575af69eaf1177ddb8d8afeb7cf *R/con2lki.R
+d338d644ec45a15b1f8e5fac9d867ca5 *README.md
+c15b9ee8e217371635c980b8511b5fdf *man/con2lki.Rd
+4f581a7b27557b49e652da5e346475ff *man/figures/README-pressure-1.png
+c155c1b31517be4abc1f8c788fd55ebd *tests/testthat.R
+700e3ffa3161fe540635b13176a4a500 *tests/testthat/test-con2lki.R
